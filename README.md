@@ -1,5 +1,5 @@
 # Data-Visualization-with-Python
-# Data Visualization Project
+
 
 This repository contains a data visualization project exploring various datasets to extract meaningful insights through visual representations. The Jupyter Notebook (`Visualization.ipynb`) demonstrates the application of different plotting techniques and libraries to understand data patterns, relationships, and trends.
 
